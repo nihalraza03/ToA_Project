@@ -1,0 +1,6 @@
+# Simulated IoT UART capture log (cfg=8E1: 8 data bits, Even parity, 1 stop bit)
+# raw=<idle-noise + frames separated by '|'>
+# each frame is 11 bits: 0 d0..d7 p 1
+
+2025-12-31T04:21:10.231Z dev=NODE-17 proto=UART baud=9600 cfg=8E1 rssi=-61 raw=1111101100101001|11101000000011|11101111111111|11100000000000
+2025-12-31T04:21:11.017Z dev=NODE-03 proto=UART baud=9600 cfg=8E1 rssi=-58 raw=1111101001100111|1110100110011111
