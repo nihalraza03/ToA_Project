@@ -2,7 +2,7 @@
 
 Console-based Theory of Automata project that demonstrates a **Turing Machine (TM) simulator** validating and annotating an IoT-style serial capture log by performing explicit **read / write / move** transitions on a tape.
 
-This implementation focuses on validating UART-like **8E1** frames (start bit, 8 data bits, even parity, 1 stop bit) from a raw bitstream and marking each frame as OK/ERROR directly on the tape output. [web:170]
+This implementation focuses on validating UART-like **8E1** frames (start bit, 8 data bits, even parity, 1 stop bit) from a raw bitstream and marking each frame as OK/ERROR directly on the tape output.
 
 ---
 
